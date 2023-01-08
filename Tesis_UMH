@@ -1,0 +1,267 @@
+,Institución,Título,Autor,Grado,Asesor,Resumen,Año
+0,Universidad Miguel Hernández de Elche,Cómo afecta la reducción de atributos en los árboles de clasificación con pacientes de hepatitis,"Richarte Rodríguez, Francisco José",Grado en Estadística Empresarial,"Rabasa Dolado, AlejandroEsteve Campello, Miriam","
+El seguimiento de los pacientes con cualquier enfermedad de la que se quiera extraer información cada vez es más habitual, debido a dos razones, numerosos avances en las investigaciones de las enfermedades y numerosos profesionales que en esto últimos años se están formando en la ciencia de datos (extracción, procesamiento, análisis y predicción).
+Esta investigación tiene como objetivo principal averiguar si una selección de atributos previa a la construcción del modelo afecta negativamente o positivamente al desarrollo del modelo, tiempo de ejecución, compresibilidad de los resultados etc. Además de hacer un estudio completo de los datos que se presentan para utilizar todas las técnicas de Minería de datos (factorización y Selección de Atributos) e incluso intentaremos predecir el desenlacé de los pacientes (Arboles de decisión).
+En conclusión, haremos un estudio completo de los pacientes con hepatitis obtenido de la Universidad de Carnegie-Mellon en noviembre de 1988, pero siempre respondiendo la pregunta de, ¿qué mejora obtenemos al incluir una selección de atributos previa a la construcción del modelo?
+",2022
+1,Universidad Miguel Hernández de Elche,Formulación y resolución de problemas cotidianos con optimización combinatoria,"Sanabria Albert, Sara Nian",Grado en Estadística Empresarial,"Landete Ruiz, Mercedes","
+La optimización combinatoria es una rama de la optimización matemática que trata de hallar la
+solución óptima a problemas donde el número de opciones posibles es excesivamente grande. Este tipo
+de problemas tendrán una función objetivo que evalúe la bondad de las diferentes soluciones y un con junto de acciones posibles para cada situación concreta. Lo que se pretende es minimizar o maximizar
+la función objetivo para tratar de encontrar la mejor solución a partir de la información de la que se
+disponga en cada caso.
+",2022
+2,Universidad Miguel Hernández de Elche,Análisis de los problemas de orden,"Oliver Elices, Cristina",Grado en Estadística Empresarial,"Landete Ruiz, Mercedes","
+Actualmente los rankings se han convertido en nuestro día a día, en muchos ámbitos 
+como la música, el deporte, en las empresas, en las universidades, etc. son utilizados. 
+Por ejemplo, el ranking ATP (Asociación de Tenistas Profesionales) clasifica a los mejores 
+tenistas del momento o los rankings de universidades del mundo QS que evalúan la 
+calidad o prestigio de cada universidad.
+El objetivo de este trabajo es crear un ranking de cinco jugadores que pertenecen a la 
+selección española de fútbol a través de tres problemas diferentes de estadística 
+multivariante que analizaremos con profundidad. Los resultados obtenidos nos han 
+permitido identificar las preferencias futbolísticas en tres zonas diferentes de nuestro 
+país.
+",2022
+3,Universidad Miguel Hernández de Elche,Mejora de conexiones en problemas de localización: un algoritmo heurístico,"Nácher Sarrió, Lorena",Grado en Estadística Empresarial,"Landete Ruiz, MercedesLeal Palazón, Marina","
+En este estudio se han resuelto modelos de localización conocidos como es el problema de localización del p-centro con mejoras.  Para resolverlo, se plantean varios modelos, unos permiten mejorar un conjunto de conexiones y otros no. Se contempla la posibilidad de resolverlos como un problema de p-mediana y comparar resultados. Así mismo, se plantea un nuevo algoritmo heurístico para la resolución de dicho problema.
+",2022
+4,Universidad Miguel Hernández de Elche,Árboles de clasificación: de lo clásico a lo óptimo. Desarrollo e implementación de una formulación de árbol óptimo,"Navarro Sellés, Ana",Grado en Estadística Empresarial,"Leal Palazón, Marina","
+En este trabajo, se aborda el desarrollo de un árbol de clasificación óptimo utilizando 
+optimización entera mixta (MIO) y su posterior implementación en R. 
+Actualmente, se usan lo que se conoce como árboles de clasificación clásicos para hacer 
+predicciones sobre un conjunto de datos que contiene una serie de variables explicativas 
+y una variable que indica la clase de cada individuo del conjunto. Se considera que se 
+puede seguir el proceso de predecir la clase de los individuos mediante un modelo en 
+forma de árbol. 
+Este tipo de árboles parten de un nodo raíz en el que se concentran todos los individuos, 
+que se van repartiendo a través de lo que se denomina nodos rama dependiendo del valor 
+de las variables predictoras del individuo para, finalmente, acabar en un nodo hoja que 
+definirá la clase que se le asigna, según la clase más común entre los individuos que hayan 
+caído en él. 
+Sin embargo, estos árboles requieren de podas para conseguir evitar sobreajustes, además, 
+se toman las decisiones de forma local, no teniendo en cuenta cómo estas decisiones 
+influyen en el resto del modelo. 
+Si se considera el problema de crear un árbol como un problema de optimización, es 
+lógico pensar en utilizar la optimización MIO, ya que se trata de un problema repleto de 
+decisiones discretas (en qué nodo hoja cae cada observación, qué variable se usa para 
+hacer una partición, etc.). 
+La MIO nos permite desarrollar un árbol en un solo paso y en que se toman las decisiones 
+considerando cómo estas afectan al resto del árbol. 
+En el trabajo se ha programado un árbol óptimo que ha devuelto unos resultados correctos 
+y que permite tomar todas las decisiones relacionadas con el árbol en un solo paso, sin 
+necesidad de poda. Se han añadido dos nuevas restricciones válidas al planteamiento 
+original del problema en el que se ha basado el trabajo.
+",2022
+5,Universidad Miguel Hernández de Elche,Análisis de estabilidad en optimización lineal,"López Romero, Manuel",Grado en Estadística Empresarial,"Cánovas Cánovas, María Josefa","
+En el presente proyecto se estudian las propiedades básicas de la
+optimización lineal y su estabilidad asociada. Se realiza una propuesta
+analítica para el estudio sistematizado de la consistencia y la resolubi lidad en un problema de optimización lineal, para luego aplicarlo en un
+programa original en MATLAB. Posteriormente se considera la esta bilidad de las propiedades anteriormente mencionadas para desarrollar
+un sistema implementable que de una medida de esta en términos de
+consistencia y resolubilidad, y así crear un programa automatizado que
+la compruebe. La última parte corresponde a un problema lineal indus trial, su modelización matemática y su posterior resolución.
+
+In the present project, linear optimization basic properties and their
+associated stability are studied in three chapters. First, an analytical
+proposal is made for the systematized study of consistency and solva bility in a linear optimization problem, to later apply it in a MATLAB language-based original program. Secondly, the stability of the proper ties previously mentioned is considered so as to study it and develop
+an implementable system that gives measure of stability in terms of
+consistency and solvability of any linear optimization problem, and
+thus create an automatized program that checks it. The last part co rresponds to a real industrial-based linear problem, its mathematical
+modeling and its subsequent resolution with the developed programs.
+",2022
+6,Universidad Miguel Hernández de Elche,Análisis estadístico sobre el impacto de la COVID-19 en las relaciones sociales y el comportamiento individual,"García Rodríguez, Alexandro Luis",Grado en Estadística Empresarial,"Ortiz Henarejos, Lidia","
+Desde 2020 venimos atravesado unos años un poco insólitos y muy difíciles para algunas personas, provocados por la pandemia del COVID-19. Tras finalizar el primer estado de alarma de 2020, medida decretada por el presidente del gobierno para combatir el avance del coronavirus, que duró del 14 de marzo al 21 de junio, se realizó una encuesta durante los meses de septiembre a diciembre de 2020 donde se les preguntaba a los encuestados por sus relaciones sociales, por el comportamiento que tuvieron, si cumplieron o no las restricciones de seguridad e higiene y sobre sus sentimientos a raíz de las restricciones de la pandemia.
+En este Trabajo de Fin de Grado, titulado Análisis estadístico sobre el impacto de la COVID-19 en las relaciones sociales y el comportamiento individual, se pretende estudiar el comportamiento que han tenido las personas tras el confinamiento de 2020 provocado por la pandemia del COVID-19, midiendo la responsabilidad de los encuestados según su edad y su sexo y analizar como afectaron los meses de pandemia en el ámbito personal.
+Previo al análisis de datos, se ha realizado un preprocesado de las variables, recodificando las respuestas de los encuestados con el fin de obtener una base de datos óptima para el desarrollo del estudio estadístico.
+Posteriormente, se ha realizado un análisis descriptivo univariante y un Análisis de Correspondencias Simple, con la intención de ver afinidades y asociaciones en las respuestas de los encuestados.
+La conclusión de este trabajo es que existen diferencias entre las personas jóvenes y las personas más adultas en el comportamiento (“responsable” o “irresponsable”) de los encuestados a la hora de mantener ciertas medidas de seguridad e higiene durante los meses de pandemia de la COVID-19. También encontramos diferencias entre hombres y mujeres, tanto en el comportamiento responsable de los encuestados como en el ámbito emocional. Asimismo, en aquellos encuestados que tenían un trabajo capaz de ser desarrollado en remoto frente a los que no tenían esta posibilidad, de nuevo, hemos encontrado diferencias significativas en el ámbito emocional.
+",2022
+7,Universidad Miguel Hernández de Elche,Aprendizaje automático para predecir cancelaciones hoteleras,"Hernández Pastor, Inés Teresa",Grado en Estadística Empresarial,"Martínez Mayoral, María Asunción","
+Con la finalidad de orientar a empresas hoteleras en la toma de decisiones, 
+llevamos a cabo un análisis predictivo con técnicas automáticas de clasificación. 
+Se construyen cinco modelos basados en árboles de clasificación para identificar 
+distintos perfiles de clientes respecto a la cancelación de reservas hoteleras 
+online, y también para descubrir qué variables están relacionadas con dicha 
+cancelación. Se comentan las ventajas y desventajas de cada una de las 
+modelizaciones, proporcionando criterios de selección y medición de la bondad 
+del ajuste.
+",2022
+8,Universidad Miguel Hernández de Elche,Aplicación de series temporales para el análisis y predicción de la Bolsa Española,"Espasa Bou, Joan",Grado en Estadística Empresarial,"Sainz-Pardo Auñón, José Luis","
+Este trabajo se crea con la finalidad de realizar un análisis y predicción de la
+bolsa española para realizar una inversión y obtener el máximo beneficio
+posible.
+Para ello, en primer lugar, vamos a hacer un recorrido por la historia de la
+bolsa. Seguidamente, haremos una breve mención sobre los conocimientos
+básicos que necesitaremos tener en cuenta para la realización del futuro
+análisis, como es el caso de la explicación del índice bursátil así como de las
+series temporales. Asimismo, se explicarán los diferentes métodos básicos
+para la predicción de la bolsa para finalmente, ahondar en el que hemos
+utilizado.
+Posteriormente, se proponen las cuatro estrategias de inversión que se han
+analizado para observar cuál es realmente la más óptima para llevar a cabo la
+inversión en bolsa. Del mismo modo, se realizará una comparación entre ellas
+mediante el porcentaje de beneficio que se ha obtenido para poder concluir
+cuál será la elegida para invertir en un futuro. De tal manera, los códigos de
+estos cuatro modelos han sido recopilados. Finalmente, se ha demostrado cuál
+de los modelos estudiados es el más adecuado para llevar a cabo la inversión
+en el IBEX 35.
+",2022
+9,Universidad Miguel Hernández de Elche,Sistema de apoyo a la decisión para el diseño de un servicio de urgencias hospitalarias,"Artigues Femenia, Raúl",Grado en Estadística Empresarial,"Sánchez Soriano, JoaquínGonçalves Dosantos, Juan Carlos","
+La crisis de la COVID-19 tuvo un impacto negativo directo en el ámbito de gestión
+sanitaria, aumentando significativamente los tiempos de espera y la saturación en los
+servicios de urgencias hospitalarias tanto públicas como privadas.
+Fundamentando en este problema, se ha procedido a realizar un algoritmo
+matemático en Rsoftware capaz de analizar por simulación un servicio de urgencias en
+un hospital. Para ello se desarrolla una herramienta para la toma de decisiones que permite
+analizar los tiempos de servicio de los pacientes que acuden a urgencias dependiendo de
+los parámetros que definan dicho servicio. Con esta herramienta se puede optimizar el
+diseño y dimensionamiento de las unidades que componen el servicio de urgencias en un
+hospital.
+La interpretación de los resultados obtenidos del simulador se basa en los modelos
+de colas, concretamente, en la teoría de colas, es por eso, que es de vital importancia tener
+claros los conceptos que se desarrollan en el presente proyecto. Tanto las medidas de
+eficacia de la teoría de colas como las trazabilidades de los distintos pacientes del sistema
+se observan en una interfaz básica que ofrece la posibilidad de realizar consultas y sus
+respectivas conclusiones.
+
+The COVID-19 crisis had a direct negative impact on the field of health
+management, significantly increasing waiting times in the emergency services of public
+and private hospitals as their saturation.
+Based on this problem, this project deals with the realization of a RSoftware
+mathematical algorithm capable of analyzing an emergency department in a hospital by
+simulation. For this purpose, a decision-making tool is developed to analyze the service
+times of patients attending the emergency department depending on the service-defining
+parameters. This tool can be used to optimize the design and sizing of the units that make
+up a hospital's emergency department.
+The interpretation of the results obtained from the simulator is based on queuing
+models, specifically, on queuing theory. Both the efficiency measures of the queuing
+theory and the traceability of the different patients in the system are displayed in a basic
+interface that offers the possibility of making queries and their respective conclusions.
+",2022
+10,Universidad Miguel Hernández de Elche,Clasificación de textos mediante algoritmos de Machine Learning,"Singh Kaur, Sukhwinder",Grado en Estadística Empresarial,"Sainz-Pardo Auñón, José Luis","
+El presente trabajo se centra en el estudio de algunos algoritmos que se engloban bajo el concepto de Machine Learning aplicados a la clasificación de textos, y hacer una comparativa entre ellos en cuanto a la eficacia y precisión a la hora de realizar las agrupaciones en cada uno de los casos.
+El primero de ellos consiste en la clasificación de los emails, si son spam o no, y el segundo se centra en la clasificación de las noticias en sus correspondientes categorías. Los algoritmos que se han elegido son el de Naive Bayes y el de Support Vector Machine.
+Tras el correspondiente análisis de los resultados se llegaron a varias conclusiones. Primero de todo, hay que destacar la necesidad e importancia de un correcto preprocesamiento de los datos. Si se lleva a cabo de una forma correcta y recomendable, las diferencias en los resultados finales son notables.
+Segundo, según el tipo de datos y de acuerdo con la forma de prepararlos, existen funciones que se pueden adaptar mejor al modelo que otras, y de esta forma influir de una manera directa sobre los resultados deseados.
+Por último, indicar que de entre los modelos que se emplearon para la resolución de los casos, aquel que mejor se adaptó y que realizó las clasificaciones con una mayor precisión fue el de Support Vector Machine.
+",2021
+11,Universidad Miguel Hernández de Elche,Técnicas de machine learning aplicadas al análisis de intención de compra online,"Díaz Martínez, Alicia",Grado en Estadística Empresarial,"Sainz-Pardo Auñón, José Luis","
+En la actualidad, se presenta un continuo auge en lo que refiere a la compra online debido a que los clientes encuentran este método más cómodo y a su vez, es más factible localizar entre una gran diversidad de productos lo que concretamente se desea. Es por ello, que los comercios deben actualizar ininterrumpidamente su plataforma digital con ayuda de los datos más importantes sobre su comercio, como puede ser la cantidad de clientes que visitan su página web o los ingresos que generan de manera online.
+Todo lo anteriormente mencionado, se refleja en la analítica web, una disciplina que actualmente se encuentra en continuo crecimiento. En ella, se recogen todos los datos de interés para una página web, destacando la función influyente en la misma, de la herramienta Google Analytics.
+Muchos datos de interés para la página web de un negocio se obtienen gracias a la analítica web, permitiéndose así conocer el comportamiento del cliente que acceda a la misma.
+En el presente informe y mediante la aplicación de diferentes técnicas de Machine Learning, como Componentes Principales y diversas técnicas de clasificación de observaciones, en concreto, Análisis Cluster, K-Nearest Neigbour y Support Vector Machine, cuya finalidad consiste en la simplificación de la base de datos, así como de enriquecer la competencia y la profesionalidad del negocio online en el mercado, se desarrolla un análisis sobre las compras adquiridas por los clientes que inician sesión en cierto negocio web durante un año, con el fin de evaluar que método de los empleados, proporciona un mayor nivel de fiabilidad, mediante la división de los datos en dos, la mitad utilizados como datos de entrenamiento, y el resto de ellos, para tratamiento de prueba, de tal forma que se genere un modelo apto, que permita estudiar futuros datos que recoja la empresa, incluso predecir las futuras compras llevadas a cabo por clientes que acceden a la página web.
+
+Nowadays, a continuous boom of online shopping is shown due to the fact that customers find this method more comfortable and at the same time, they find a great diversity of products. For this reason, businesses must continuosly update their digital platform with the help of the most important data about their business, such as the number of customers visiting their website or the revenue they generate online.
+Al lof above is reflected in web analytics, a discipline that is in continuous growth. In it, all the data of interest to a website are collected, highlighting the influential role in it, the Google Analytics tool.
+Many interesting data for the website of a business are obtained thanks to web analytics, thus allowing to know the behaviour of the customer who accesses it.
+In this report and though the application of the different Machine Learning techniques, like Principal Components, and several classification techniques, in particular, Cluster Analysis, K-Nearest Neigbour and Support Vector Machine, whose purpose is to simplify the database, as well as to enrich the competence and professionalism of the online business in the market, an analysis is developed on the purchases made by customers who log in to a certain web business during a year, in order to evaluate which of the methods used, provides a higher level of reliability, by diving the data in two, half of them, for test treatment, in such a way that a suitable model is generated, through which, it is possible to study future data collected by the company, even to predict future purchases made by future customers of the website.
+",2021
+12,Universidad Miguel Hernández de Elche,Formulación y resolución de problemas mediante optimización combinatoria,"Pagés Plaza, Pablo",Grado en Estadística Empresarial,"Landete Ruiz, Mercedes","
+El presente trabajo se basa en la formulación y resolución de problemas que pueden surgir en cualquier tipo de compañía mediante optimización combinatoria. Para ello, se ha efectuado un análisis basado en 4 ejemplos prácticos donde estudiaremos como buscar la mejor solución posible a distintas problemáticas: la predicción sobre la devolución de un crédito bancario a conceder en función de diversas características del solicitante, la localización óptima de diversos puntos de entrega que maximicen el número de clientes atendidos, la mejor distribución de cámaras de seguridad que minimice la capacidad máxima de control de la cámara que más clientes vigila o la ruta óptima de envíos almacén-vendedor que minimice costes de transporte. Una vez planteados los problemas, se han escrito los modelos matemáticos pertinentes, contando con las siguientes secciones: conjuntos, parámetros, variables, función objetivo y restricciones. Posteriormente, se han trasladado a diferentes softwares informáticos para su resolución: en la mayoría de los casos, primero se ha realizado un proceso de limpieza y/u ordenación de datos en Microsoft Excel, para después utilizar la información en Lingo, donde se han extraído las soluciones que optimizan de una manera u otra el conflicto de cada caso práctico. Como explicaremos a continuación, mediante este trabajo es fácil demostrar la importancia que puede llegar a tener un simple análisis predictivo para una empresa o, de manera más general, el uso de la investigación operativa y la inteligencia artificial. Gracias a la multitud de técnicas analíticas existentes hoy en día que se derivan de estas ramas, podemos realizar estudios que ocasionen un gran beneficio o una gran reducción de costes de operación para nuestra empresa.
+",2021
+13,Universidad Miguel Hernández de Elche,Estimación de los parámetros de modelos epidemiológicos aplicados a la evolución de la pandemia covid-19,"Sotos Serrano, Cristina",Grado en Estadística Empresarial,"Sainz-Pardo Auñón, José Luis","
+En diciembre del 2019 se inició una pandemia mundial con origen en Wuhan (China), se trata de una enfermedad por coronavirus causada por el SARS-CoV-2. Fue rápidamente expandida por todo el mundo debido a su carácter infeccioso. Con el fin de frenar esta pandemia cada uno de los Estados afectados impusieron medidas epidemiológicas como un confinamiento territorial y poblacional, lo que conllevó a la paralización de algunos países dejando atrás una gran crisis económica. Para la predicción de la evolución de estas epidemias en las poblaciones existen diversos modelos matemáticos epidemiológicos basados en ecuaciones diferenciales, como son el SIR, SIS, SIRS, SEIS, SEIR, MSIR y MSEIR. Sin embargo, a pesar de no ser el modelo que mejor se adapte a la expansión del COVID-19, el modelo SIR es el que se lleva a cabo en el presente trabajo y el más utilizado tanto por su simplicidad como por ser uno de los primeros modelos en formularse, éste consiste en diferentes ecuaciones diferenciales que estudian la transmisión del virus dividiendo a la población en tres grupos, susceptibles, infectados y recuperados. En el presente trabajo se llevan a cabo cuatro escenarios diferentes con el objetivo de encontrar el modelo que mejor se ajuste a la evolución de la pandemia sufrida en el territorio español durante la primera oleada. Finalmente, ha sido un modelo SIR, establecido para las fechas correspondientes del 1 de enero al 19 de abril del 2020, el que mejor se ajusta a esta evolución y que mejores resultados nos ha proporcionado.
+
+In December 2019, a global pandemic started with origin in Wuhan (China), it is a coronavirus disease caused by SARS-CoV-2. It was rapidly spread throughout the world due to its infectious nature. In order to curb this pandemic, each of the affected countries imposed epidemiological measures such as territorial and population confinement, which led to the paralysis of some countries, leaving behind a major economic crisis. For the prediction of the evolution of different epidemics in populations, there are several epidemiological mathematical models based on differential equations, such as SIR, SIS, SIRS, SEIS, SEIR, MSIR and MSEIR. However, in spite of not being the model best adapted to the expansion of COVID-19, the SIR model is the one used in the present work and the most widely used both for its simplicity and for being one of the first models to be formulated. It consists of different differential equations that study the transmission of the virus by dividing the population into three groups, susceptible, infected and recovered.In the present work, four different scenarios are carried out with the aim of finding the model that best fits the evolution of the pandemic suffered in the Spanish territory during the first wave. Finally, a SIR model, established for the dates corresponding to January 1 to April 19, 2020, has been the one that best fits this evolution and that has provided the best results.
+",2021
+14,Universidad Miguel Hernández de Elche,Modelos de optimización combinatoria adaptados al COVID-19,"Sancho Campos, Alberto",Grado en Estadística Empresarial,"Landete Ruiz, Mercedes","
+Actualmente estamos viviendo una situaci on muy dif  cil, donde la pandemia provocada
+por el COVID-19 nos hace tener que mantener unas restricciones para poder asegurar
+que la propagaci on del virus se mantiene y no aumenta masivamente. Por tanto, dadas
+las restricciones que se han establecido y la situaci on actual, en este TFG hemos desarrollado
+modelos relacionados con la asignaci on y cesi on de respiradores, esta cesi on ser a de
+hospitales que tienen respiradores su cientes a hospitales que necesitan respiradores por
+falta de ellos. Otro de estos modelos trata sobre la localizaci on de puestos de emergencias
+y asignaci on y log  stica de recursos, donde este modelo plani car a las cantidades de
+varios tipos de suministros, que se coloquen previamente y se determine la ubicaci on de
+estos, se haga para que se determine el reparto de respiradores, material sanitario (mascarillas,
+batas, respiradores) y medicamentos a diferentes hospitales, en condiciones de
+incertidumbre si ocurriera otra nueva ola de COVID-19. El tercer modelo trata de como
+se realizar  a la vacunaci on contra el COVID-19 si se realizase tanto en centros m edicos y
+hospitales como farmacias, es decir, que la vacunaci on se realice en farmacias m as centros
+m edicos y hospitales. El cuarto modelo est a relacionado con la restricci on del distanciamiento
+social, donde se tiene en cuenta el riesgo que sufren las personas de infectarse en
+ciertas instalaciones, el tiempo que han pasado estas personas en esas instalaciones y el
+coste que tendr  a con nar a las personas y cerrar estas instalaciones. Para  nalizar, el
+ ultimo modelo desarrollado es un modelo de m aquinas de vectores soporte, donde a ra  z
+de una encuesta que se le har  a a personas que han pasado el COVID-19, se har  a una
+clasi caci on y predicci on acerca de si otras personas nuevas que realicen la encuesta una
+vez han pasado el COVID-19 tienen anticuerpos o no, y poder decir si esas personas ser  an
+inmunes.
+",2021
+15,Universidad Miguel Hernández de Elche,Neural networks from scratch,"Singh, Gurwinder",Grado en Estadística Empresarial,"Sainz-Pardo Auñón, José Luis","
+Este trabajo es realizado sobre las redes neuronales que son un sub campo de Machine Learning. Las redes neuronales utilizan supervised learning para aprender, las redes neuronales tienen su inspiración en las neuronas biológicas. En este trabajo se demuestra la estructura sobre la cual se asientan las redes neuronales.
+En el paso de forward propagation vemos como las redes neuronales pasan la información de una capa a otra. Utilizando el producto matricial agilizamos este proceso de pasar la información hacía adelante para predecir. Una vez hecho la predicción necesitamos alguna manera para medir el error que se comete por lo tanto se explica lo que es loss function y cómo mide el error. Los weights (pesos) que son los parámetros de nuestra red neuronal, son optimizados haciendo uso del cálculo y su regla de cadena. Podemos optimizar, entrenar los pesos para que el modelo cometa menos error. El paso para entrenar los pesos es conocido como Backpropagation, en este paso vemos como se calcula el gradiente y los trucos que se utilizan para calcular el gradiente para capas iniciales.
+En todos los modelos de Machine learning puede haber problemas de sobreajuste (Overfitting), en las redes neuronales vemos algunas de las técnicas utilizadas para prevenir este sobre ajuste y que los modelos puedan generalizarse mejor. Una vez aprendida la estructura básica observamos como una imagen es tratada por un modelo convolutional y los distintos frameworks que existen para facilitar la programación de las redes neuronales. Para demostrar todos los conceptos teóricos se aplican las redes neuronales a distintos tipos de problemas como: regresión, clasificación, clasificación de dígitos y observamos la precisión que alcanzan estas en dichas tareas.
+",2021
+16,Universidad Miguel Hernández de Elche,"Distancia a la consistencia e inconsistencia de sistemas de
+desigualdades lineales: implementación en Matlab","Candela Murcia, Daniel",Grado en Estadística Empresarial,"Cánovas Cánovas, María Josefa","
+El presente Trabajo de Fin de Grado versa de forma general sobre la teoría de sistemas
+de desigualdades lineales que rigen un problema de Programación Lineal.
+Con el objetivo de entender el enfoque de este campo de la optimización, se
+contextualizan con breves notas históricas las investigaciones desarrolladas por los
+pioneros de la Programación Lineal.
+Dentro del amplio campo de la Programación Lineal, el presente trabajo se ocupa de
+analizar las repercusiones que pueden ocasionar ligeras modi caciones en los coe cientes
+de los sistemas de desigualdades lineales y cómo pueden afectar a la solución del problema.
+Cabe destacar el hecho de que este trabajo se apoya, por un lado, en resultados clásicos de
+la Programación Lineal y, por otro lado, en resultados recientes de investigación (véanse
+las referencias bibliográ cas comentadas en la introducción).
+En este contexto, nuestro principal objetivo es conocer en qué cantidad hemos de
+modi car los coe cientes de los sistemas de desigualdades lineales de tal forma que
+consigamos transformar un sistema que no tiene solución en otro que sí la tiene, o bien
+saber en cuánto podemos modi car dichos coe cientes para poder seguir asegurando
+que tiene solución. Para comprender este análisis, comenzamos explicando algunos
+conceptos matemáticos básicos relacionados con los sistemas de desigualdades lineales.
+A continuación, incluimos varios teoremas imprescindibles acerca de la consistencia e
+inconsistencia de los sistemas. Por último, nos centramos en estudiar en que cantidad
+mínima hemos de modi car el sistema para llegar a dicha consistencia o inconsistencia,todo ello acompañado de sus respectivos ejemplos y grá cas.
+En cuanto a nuestra contribución principal, es la elaboración e implementación en
+MATLAB de tres programas. El primero de ellos es capaz de calcular y mostrar
+genéricamente, mediante la introducción del usuario de los coe cientes y términos
+independientes del sistema de desigualdades lineales, la distancia a la inconsistencia (en
+norma euclídea). Respecto al segundo, también calcula la distancia a la inconsistencia,
+pero esta vez utiliza la norma del supremo. El tercero utiliza la norma del supremo y es
+capaz de calcular y mostrar genéricamente, mediante la introducción del usuario de los
+coe cientes y términos independientes del sistema de desigualdades lineales, la distancia
+a la consistencia o inconsistencia según el caso que nos encontremos. Seguidamente
+exponemos las conclusiones generales del proyecto. Además, mediante el empleo de los
+programas desarrollados en MATLAB, se exponen diferentes ejemplos que se pueden dar
+según el sistema de desigualdades lineales en el que nos encontremos.
+",2021
+17,Universidad Miguel Hernández de Elche,Análisis de distintos métodos de análisis técnico de activos,"Vicente Juan, Jorge",Grado en Estadística Empresarial,"Sainz-Pardo Auñón, José Luis","
+Este Trabajo de Fin de Grado muestra un análisis de distintas acciones que cotizan en la bolsa de España durante determinados periodos para comprobar la validez de los análisis se van a utilizar periodos anteriores y comprobar la eficacia de los métodos.
+Para este análisis se van a utilizar distintos métodos de análisis técnico, este análisis se basa en la evolución del precio y en el análisis de las gráficas de velas que se forman con la evolución de los precios diarios de las acciones.
+Se va a utilizar para este análisis el software R studio, un lenguaje de programación estadística informática.
+Se pretende valorar los métodos utilizados en función de los resultados obtenidos en cada uno de los métodos, y si con estos métodos somos capaces de encontrar los momentos óptimos en los que comprar o vender los activos analizados.
+",2021
+18,Universidad Miguel Hernández de Elche,Análisis de la eficiencia de recursos en el sector farmacéutico,"Malamov, Dimitar Nikolaev",Grado en Estadística Empresarial,"Mora Rodríguez, Cristina","
+La falta de eficiencia del gasto público en sanidad es especialmente notable en el sector farmacia, ya que no existe una gestión racional del consumo los recursos debido a la polimedicación y mal uso de los medicamento. Este riesgo para la salud, que puede ser mortal, provoca reacciones adversas que derivan en aumento de consultas, hospitalizaciones, residuos y, en definitiva, en mayor gasto farmacéutico.
+Para reducir costes RAM, y optimizar el gasto farmacéutico, se estudia la viabilidad de la implementación de un servicio de farmacogenética en la farmacia comunitaria, que permita predecir el comportamiento genético del paciente frente a ciertos medicamentos. Este estudio se realiza mediante una combinación de técnicas estadísticas utilizando el modelo farmacoeconómico de análisis coste/efectividad.
+
+Public health expenditure’s lack of efficiency is especially notable in the pharmacy field since there is no rational management of resource consumption due to polypharmacy and misuse of drugs. This health risk, which can be fatal, causes adverse reactions that lead to increased consultations, hospitalizations, waste, and ultimately, higher pharmaceutical costs.
+To reduce ADR costs and optimize pharmaceutical spending, the feasibility of implementing a pharmacogenetics service in the community pharmacy is studied, which allows predicting the patient’s genetic behaviour against certain drugs. This study is carried out through a combination of statistical techniques using the pharmacoeconomic model of cost-effectiveness analysis.
+",2021
+19,Universidad Miguel Hernández de Elche,Resolución de análisis clúster mediante problemas de optimización combinatoria,"Navajas Bañón, José",Grado en Estadística Empresarial,"Landete Ruiz, Mercedes","
+En la actualidad, la recogida de datos se ha convertido en un proceso vehicular en el avance de la sociedad y
+la toma de decisiones. Diversos son los ámbitos de acción en los que el análisis de los datos es imprescindible,
+entre otros, los datos en el espacio de la psicología en el que a través de ellos se pueden recoger patrones de
+comportamiento, en el mundo empresarial en general con tan distintas aplicaciones como en la logística, como
+en la asignación de tareas a trabajadores, tiempos de espera. . . Así como en instituciones gubernamentales,
+en la gestión del territorio, ampliación de servicios y una larga enumeración en distintas áreas.
+Por ello, se ha considerado pertinente realizar una introducción acerca del análisis clúster que, debido a la
+sencillez de su funcionamiento, existe una constante inquietud en su aplicación en múltiples ramas de estudio.
+El desarrollo computacional, como nuevas técnicas de resolución en menor tiempo y esfuerzo hace que no se
+necesiten una gran cantidad de recursos para conseguir realizar este proceso de clasificación. Así, se expone
+un análisis sobre la teoría del análisis clúster, tipología de clasificación, naturaleza de los datos sobre los que
+aplicar. . .
+En un segundo acto, se propone una revisión acerca de la literatura del problema p-median así como métodos
+heurísticos, utilizado en la mayoría de casos, para la ubicación óptima de instalaciones. Debido a este gran
+crecimiento en el estudio y recolección de datos, ha hecho que uno de los campos en los que mayor interés
+y crecimiento han desarrollado es el del sector logístico. Uno de los problemas que más inquietud tiene, es
+el de la ubicación de almacenes con los que poder abastecer a los clientes, ubicación potencial de comercios
+para el consumidor y satisfacer las necesidades de estos, de igual manera, instituciones gubernamentales
+plantean este hecho con el fin de proporcionar servicios a toda la población aplicando eficientemente los
+recursos disponibles.
+",2021

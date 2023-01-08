@@ -1,0 +1,430 @@
+,Institución,Título,Autor,Grado,Asesor,Resumen,Año
+0,Pontificia Universidad Católica del Perú,Implementación de un sistema integral de gestión de la configuración basado en ITIL V4 orientado a PYMES,"Llaque Agramonte, Josue Manuel","
+Ingeniería Informática
+","Tupia Anticona, Manuel Francisco y Bruzza Moncayo, Mariuxi Alexandra","El presente proyecto de fin de carrera propone la implementación de un aplicativo web mediante el cual permita a una pequeña y mediana empresa la gestión de configuración de servicios de TI y sus activos, basado en el marco de trabajo ITIL V4.
+La coyuntura actual de la pandemia, ha puesto a prueba la continuidad de negocio en todo tipo de empresas. Jorge Arbache (2020), vicepresidente del sector privado del Banco de Desarrollo de América Latina (CAF) afirma que las pymes que sobrevivirán a la pandemia son las que empleen el uso de tecnologías de información, y por ende más productivas e innovadoras. Según la revisión sistemática realizada, se pudo determinar que las pymes no perciben el valor de sus tecnologías de información (TI), no hacen uso eficiente de éstas y por ende no ayudan a lograr los objetivos de negocio (Roberto C, 2014). Las pymes normalmente no aplican buenas prácticas relacionadas a la gestión de las tecnologías de información. Asimismo, la inexistencia de soluciones tecnológicas comerciales de gestión de la configuración orientadas a la pequeña y mediana empresa (Cruz-Hinojosa & Gutiérrez-De-Mesa, 2016). Siendo estos problemas identificados la motivación para el desarrollo del objetivo principal del presente proyecto.
+Se plantearon tres objetivos específicos, los cuales son modelar el proceso que implica la gestión de configuración según las buenas prácticas relacionadas de ITIL V4, identificar los requisitos funcionales de la aplicación web para la gestión de activos y gestión de configuración del servicio e implementar la aplicación web que permita la gestión de configuración y de activos. El plan de construcción del software web fue bajo un modelo incremental, en donde se entregaron funcionalidades del sistema divididos en módulos de acuerdo a los requisitos funcionales planteados en el segundo objetivo específico.
+Finalmente, se plasma en los últimos capítulos los resultados esperados como evidencia del desarrollo de los objetivos específicos planteados, siendo estos el modelado de los procesos que implican la gestión de configuración, lista de requisitos funcionales y no funcionales, así como una matriz de trazabilidad que relaciona las buenas prácticas de ITIL de gestión de la configuración y los requisitos planteados. Por último, la documentación de análisis, diseño, arquitectura y todos los elementos resultados del proceso que implica la construcción y desarrollo del software web como plan de pruebas, código fuente, aplicativo web, reporte de pruebas, documento de instalación y guía de usuario.",2021
+1,Pontificia Universidad Católica del Perú,Implementación de un sistema de información para la gestión de unidades de manipulación en almacenes de grandes dimensiones,"Canasa Mayta, Paul Rodrigo","
+Ingeniería Informática
+","Tupia Anticona, Manuel Francisco","Un almacén cuenta con tres funciones importantes. La primera está relacionada a la
+recepción, se debe realizar una verificación registrando la cantidad y las características
+de los productos recibidos para después ser almacenados. La segunda función abarca
+el control y gestión de los productos dentro de la infraestructura física. La tercera se
+refiere a la selección de productos a distribuir y el monitoreo de la entrega de estos al
+cliente.
+Una de las formas más comunes de administrar productos en un almacén de gran
+envergadura es mediante el uso de unidades de manipulación. Estas estructuras han
+sido utilizadas ampliamente como un importante equipo de logística unitaria, puesto que
+mejoran el proceso de carga y transporte de bienes. Además, su uso puede reducir la
+tasa de daños y errores, la necesidad de mano de obra y otros costos de manipulación.
+Existen varias consideraciones a tomar en cuenta al momento de recepcionar y
+despachar algún producto. Los almacenes pueden tener diferentes tipos de
+infraestructura y cada área dentro del almacén puede ser expuesta a distintos factores
+ambientales. Además, existen productos que deben estar distanciados de otros por su
+naturaleza, por ejemplo, no es posible mantener productos de consumo humano cerca
+de productos de limpieza. Otro punto a considerar son las políticas de rotación de
+productos, debido a que también influyen en la ubicación que deben tener en el almacén.
+Partiendo de esta problemática, el objetivo de este trabajo de fin de carrera es
+implementar un sistema de información para el soporte a la gestión de operaciones en
+la recepción y selección de productos para el despacho en almacenes de grandes
+dimensiones. Entre las funcionalidades más importantes se destacan la localización de
+los productos a despachar y las sugerencias por parte del sistema para que el usuario
+pueda almacenar los bienes recepcionados en el lugar más adecuado. Para lograr estas
+tareas se propone el uso de algoritmos metaheurísticos en la ubicación y salida de
+productos, así como se desarrollará un sistema web con el objetivo de monitorear las
+ubicaciones de los productos dentro del almacén y permitir al encargado realizar las
+funciones administrativas del mismo. Además, se implementará un aplicativo móvil con
+el fin de que el operario puede registrar los ingresos y salidas de bienes al almacén.",2022
+2,Pontificia Universidad Católica del Perú,"Implementación de sistemas de gestión de seguridad de la información (SGSI), de servicios de TI (ITSM) y firma electrónica","Cabello Roca, Percy Ernesto","
+Ingeniería Informática
+","Tupia Anticona, Manuel Francisco","El presente informe describe la experiencia adquirida a través de la ejecución
+de tres proyectos de informática desarrollados por la Unidad de Tecnología de
+Información del Centro Internacional de la Papa, una organización dedicada al
+uso, mejoramiento y conservación de la papa, camote y otros tubérculos andinos
+para contribuir a los Objetivos de Desarrollo Sostenible (SDG) de las Naciones
+Unidas, específicamente: reducción de la pobreza rural, incremento de la
+seguridad alimentaria y mejoramiento de ecosistemas y recursos naturales.
+El primer proyecto, Implementación de un sistema de gestión de seguridad
+de la información (SGSI), resulta clave dados los procesos de transformación
+digital y fusión con otros 11 centros de investigación internacionales, que
+atraviesa el CIP. El poder contar con un marco para responder de manera
+sistemática a riesgos crecientes en ciberseguridad se agudizó ante el súbito
+cambio a un modelo de trabajo remoto a raíz de la pandemia del covid-19. La
+resolución de las recomendaciones de auditoría, a partir de la aprobación de la
+política de seguridad de la información, desarrollada en lineamientos por dominio
+y el establecimiento de una línea base de entendimiento de responsabilidades
+entre los empleados de CIP, clave para el éxito de esta iniciativa, son algunos
+de los resultados más relevantes.
+La Implementación de una solución de firma electrónica, segundo proyecto
+descrito, igualmente obedece a necesidades de optimizar los procesos de
+aprobación de la organización junto a la de contar con métodos no repudiables
+para estas. Estas necesidades y el valor de la solución fueron intensificados por
+la masificación de modalidades remotas de trabajo a raíz del covid-19. Los
+líderes de área se han apropiado de esta tecnología e identifican con mayor
+agilidad las transacciones donde la solución aporta más significativamente y
+continúa el despliegue global, dentro del marco de la política institucional
+establecida para su uso y limitaciones.
+Finalmente, la Implementación de un nuevo sistema de gestión de servicios
+de tecnologías de información (ISMS en inglés), tercer proyecto presentado, fue
+una evolución necesaria para apoyar la maduración de procesos clave dentro
+del marco de ITIL (2011, hoy en transición a la versión 4), principalmente, gestión
+de cambios, gestión de pedidos de servicio y de activos.
+Las actividades de dirección seleccionadas de la Unidad de Tecnología de
+Información a mi cargo, ejecutadas entre los años 2019 y 2020, complementan,
+ahora desde la perspectiva de procesos y mejora interna, el doble rol de TI:
+excelencia operativa e innovación tecnológica. El año 2020 en particular requirió
+debido en parte a aspectos presupuestales, al reducirse la capacidad de
+implementación de proyectos de la institución, y el cambio de modalidad de
+trabajo a remoto, a ejecutar ambos aspectos con igual eficacia.
+En conclusión, la función informática surge en las necesidades del negocio y
+resulta en las soluciones que las atienden. Las necesidades expresadas
+progresivamente como objetivos estratégicos, iniciativas y proyectos van al
+mismo tiempo delineando el plan estratégico de TI. Este alineamiento debe ser
+mantenido a través de un trabajo cercano con la dirección de la organización para
+responder a la velocidad que demanden los cambios internos y externos.",2022
+3,Pontificia Universidad Católica del Perú,Implementación de un sistema de gestión de activos de TI bajo la óptica del marco ITIL 4,"Recalde Manrique, Diego Andre Walter","
+Ingeniería Informática
+","Flores García, Luis Alberto","La gestión activos de TI forma parte de las prácticas de ITIL y tiene como principal
+objetivo “garantizar un control completo de los Activos de TI de la empresa” (Rivas,
+2020). Una buena gestión de activos tecnológicos es importante para el seguimiento de
+las tecnologías que operan en la organización, reducción de costos, evitar riesgos
+legales, entre otros beneficios.
+Como queda demostrado dentro de la revisión realizada en el presente proyecto de
+tesis, se puede evidenciar que no se ha encontrado alguna implementación de la gestión
+de activos de TI que cuente con un respaldo de marcos, buenas prácticas, estándares
+actualizados, como es el caso de ITIL en su última versión 4, lo que podría causar que
+dicha gestión opere bajo una óptica desfasada.
+Como estado actual de la gestión de activos tecnológicos de las empresas, Calio et al.
+(2011) menciona que para la gestión de activos de TI en las empresas “el método más
+común era una auditoría física con una libreta y un lápiz”, y posteriormente se registra
+en una hoja de cálculo. También se usan lectores y códigos de barras.
+Asimismo, el control de los activos de TI es muy mecánico debido a que se hace uso de
+formatos en Excel y ello puede incurrir en un mal ingreso de información vulnerando la
+integridad de la información registrada (Ramirez, 2020).
+Adicionalmente, Cáceres y Cazares (2021) también agregan que la información
+referente a los activos de TI no puede ser accedida en tiempo real y que, al ser manejada
+por diferentes personas de la organización, puede contener errores. Además, esta sería
+información no centralizada y, de ser requerida por otras unidades, tendrían que esperar
+un reporte del área de la organización.
+En respuesta a esta problemática, el presente proyecto de fin de carrera tiene como
+finalidad implementar un sistema de gestión de activos de TI bajo la óptica del marco
+ITIL 4.
+Se modela el proceso de gestión de activos de TI basado en lo descrito en ITIL 4 y lo
+encontrado en la revisión sistemática, y se usa la metodología cascada para el
+desarrollo del software.",2022
+4,Pontificia Universidad Católica del Perú,Automatización del proceso de gestión de órdenes de compra con clientes B2B en una empresa de pinturas usando RPA,"Alpiste Sarmiento, Daniel Mijail","
+Ingeniería Informática
+","Huamán Monzón, Fernando Miguel","Desde el inicio del siglo XXI y con el desarrollo de la cuarta revolución industrial, en
+conjunto con la aplicación de la inteligencia artificial y el aprendizaje automático en los
+negocios, se ha desarrollado también una mejora de los procesos de negocio, pues ahora su
+ejecución se compone también de tareas automatizadas. Sin embargo, al intentar implementar
+estas se presentan problemas que son un común derivado en las corporaciones de todos los
+rubros: inversión de tiempo elevado y recursos para desarrollar nuevos programas que
+automaticen los procesos de negocio, necesidad de conocimiento técnico para aplicar
+soluciones de software convencionales, la no documentación de los procesos ni una correcta
+Administración de Procesos de Negocio (BPM), y, por último, la interacción de múltiples
+sistemas de información que pertenecen a una misma infraestructura de tecnologías de
+información durante la ejecución de los procesos de negocio.
+Las empresas de nuestro país, Perú, no son ajenas a dichos problemas. Por lo que
+mediante el presente proyecto se busca encontrar una solución a estos utilizando la tecnología
+de automatización robótica de procesos y una correcta administración de procesos de negocio
+en un proceso B2B, en específico, en una empresa de pinturas.
+Dentro de este proyecto se analizó la problemática descrita, el estado del arte de las
+tecnologías y metodologías que son usadas en el proyecto y también se desarrolló este último.
+Se realizó un análisis del estado actual del proceso de negocio y se propuso la nueva forma de
+ejecución. Luego se preparó la arquitectura de tecnologías de información que soportará la
+nueva ejecución. Después, se desarrolló las tareas automatizadas aplicando las metodologías
+propuestas. Por último, se preparó reportes gráficos sobre los resultados de esta ejecución y, a
+su vez, se realizó una medición de tiempos e indicadores seleccionados para evaluar el
+rendimiento del nuevo proceso de negocio.
+Con este proyecto se logró demostrar la eficiencia que se puede obtener en la ejecución
+de los procesos de negocio gracias a la automatización robótica de procesos y la solución a
+los problemas antes mencionados, incluyendo el aumento del nivel de satisfacción de los
+empleados y la interacción de los múltiples sistemas de información sin modificar la
+infraestructura tecnológica de la empresa.",2022
+5,Pontificia Universidad Católica del Perú,Desarrollo de un videojuego educativo configurable con mecánicas de aprendizaje y de juego que permitan reforzar el aprendizaje de ciencia y tecnología en estudiantes de primero de secundaria,"Salazar Suasnabar, Hubert Eliot","
+Ingeniería Informática
+","Murillo Veliz, Braulio Oscar","El presente trabajo de tesis abarca la implementación de un videojuego educativo con la
+capacidad de ser personalizado por parte de un docente o instructor y que, utilizando mecánicas
+de aprendizaje y de juego, refuerce el aprendizaje en el área de Ciencia y Tecnología de
+primero de secundaria. Para dicho fin, se ha elaborado un proyecto que incluye el
+establecimiento de la problemática, el objetivo general y sus objetivos específicos, la revisión
+del estado de arte, la presentación de los resultados alcanzados, las conclusiones y los trabajos
+futuros relacionados al proyecto en sí.
+En el primer capítulo se presenta la problemática del proyecto de tesis, partiendo de un contexto
+de rendimiento bajo por parte de alumnos peruanos en temas de Ciencia y Tecnología, y debido
+a los problemas causa, que son la necesidad de herramientas interactivas que tomen en cuenta
+la forma de aprender de los estudiantes de la generación actual con determinados tipos de
+jugador, la necesidad de videojuegos educativos que tomen en cuenta las características de
+determinados estilos de aprendizaje para complementar el aprendizaje en temas de Ciencia y
+Tecnología y la necesidad de videojuegos que permiten su personalización o configuración por
+parte del instructor o docente, a nivel de aprendizaje, se obtiene el problema central que es la
+dificultad por parte de los docentes para la personalización de los temas y logros de aprendizaje
+en soluciones interactivas que complementan el aprendizaje en el área de Ciencia y Tecnología.
+A partir de dicho problema central, se obtiene el objetivo general, el desarrollo de un
+videojuego educativo configurable, que busca atender al problema central, y sus objetivos
+específicos que buscan responder a cada uno de los problemas causas descritos previamente.
+También, se presentan los resultados esperados ligados a cada uno de los objetivos específicos,
+los indicadores objetivamente verificables de dichos resultados y las herramientas y
+metodologías que se utilizaron para obtener los resultados esperados.",2022
+6,Pontificia Universidad Católica del Perú,Implementación de un Sistema de Información Hospitalario (HIS) interoperable basado en HL7 para un Centro Médico de categoría II-1 o superior,"Vargas Rioja, Carlos Alberto y Arrué Pajares, Sebastián Daniel","
+Ingeniería Informática
+","Baldeón Medrano, Johan Paul","Dada la coyuntura actual del COVID-19, en el Perú se ha puesto en evidencia que la falta
+de un sistema de salud integrado e interoperable y ha repercutido en la gestión del manejo de esta
+pandemia. El sistema de salud, tanto público como privado se encuentra fraccionado y cada
+componente, como EsSalud, MINSA o privados; aislados de los demás. Así, hemos visto que el
+comando Covid, liderado por los ministros de salud, ha tenido que hacer esfuerzos para tratar de
+recopilar y consolidar la información de todos los centros médicos y de sus pacientes en todo el
+país. A la capacidad de los sistemas de poder intercambiar información entre sí se le denomina
+interoperabilidad; y cuando un sistema tiene características de interoperabilidad es más fácil su
+integración con otros sistemas de información. Es por esta razón que en el presente proyecto se
+presenta un sistema de salud hospitalario (HIS, por sus siglas en inglés), usando el protocolo
+estándar HL7 y desarrollado en una plataforma web. Este sistema, una vez desplegado en distintos
+centros de salud, permitirá el intercambio y recopilación de información entre todos los centros
+de la red de salud y también estará preparado para interoperar e integrarse más fácilmente con
+sistemas de salud de otras entidades. Usando este protocolo, pueden ser acoplados nuevos
+sistemas al paquete de manera que es completamente interoperable y escalable. El HIS tiene como
+objetivo gestionar la información administrativa de un centro de salud en lo que respecta a
+finanzas, recursos humanos (personal y pacientes), instalaciones, citas, recursos, activos y el
+proceso de hospitalización de un paciente. En conjunto con otros sistemas, como la Historia
+Clínica Electrónica, Sistema de Farmacia, Laboratorio, Radiología y otros, el HIS permite
+gestionar toda la información de salud y administrativa de un centro médico y sus pacientes. Para
+ello, nuestra tesis “Implementar un Sistema de Información Hospitalario (HIS) interoperable
+basado en estándares HL7 para un Centro Médico de categoría II-1 o superior” tiene por objetivos
+específicos diseñar la arquitectura de este sistema HIS, implementar los servicios web necesarios,
+desarrollar la aplicación web, diseñar e implementar el módulo de seguridad e identificar y evaluar
+sus principios de usabilidad. Por lo mencionado anteriormente, el presente trabajo adquiere suma
+relevancia debido a la coyuntura del COVID-19 y esperamos sea considerado para trabajos
+futuros que busquen mejorar el colapsado sistema sanitario del país mediante sistemas de
+información modernos e interoperables.",2022
+7,Pontificia Universidad Católica del Perú,Diseño de un modelo para identificar amenazas no intencionales de ciberseguridad en instituciones públicas generadas por personal interno a partir de su comportamiento sobre la infraestructura de TI,"Castillo Lopez, Anderson Jesús","
+Ingeniería Informática
+","Lena Valega, Ángel Gabriel","En la actualidad, el uso de las tecnologías de la información y comunicación (TIC) en los
+sistemas públicos han tomado un rol cada vez más importante e imprescindible. Las
+necesidades por parte de los gobiernos para mejorar, transparentar y agilizar sus
+actividades y procesos nos han llevado a su uso sostenible y evolutivo en el tiempo.
+Esta evolución ha permitido desarrollar sistemas más complejos con el fin de brindar un
+mejor servicio a los ciudadanos y organizaciones públicas. Sin embargo, debido a la
+sensibilidad de la información que se maneja en dichos sistemas, se han vuelto blanco de
+diversos tipos de ataques con el fin de afectar la confidencialidad, integridad y
+disponibilidad para propósitos desconocidos o de beneficios económicos.
+Si bien la mayoría de los ataques de ciberseguridad provienen de agentes externos, existe
+agentes internos como los trabajadores que sin ninguna intención pueden abrir una puerta
+que permite que las organizaciones se vean vulnerables. Por esta razón el presente
+proyecto de tesis tiene como finalidad elaborar un modelo de identificación de amenazas
+no intencionales de ciberseguridad basado en el estándar de la familia de normas ISO
+27000, marcos de referencia como COBIT 2019 y NIST v1.1.
+Este modelo está conformado por una lista de componentes de los cuales se tiene los
+objetivos y métricas del modelo, una herramienta de análisis situacional, una lista de
+patrones de comportamiento, una matriz de gestión de riesgos y una guía aplicativa del
+modelo, los cuales forman parte de los objetivos del presente proyecto siendo el principal
+objetivo tener un modelo funcional.
+Finalmente, se presentan las conclusiones como la implementación de los componentes
+junto con la verificación a través del juicio experto, así como también haber participado en
+la 4th International Conference on Information Technology & Systems 2021 en Ecuador
+(Castillo, Tupia, & Bruzza, 2021).",2022
+8,Pontificia Universidad Católica del Perú,"Propuesta de mejora de la cadena de suministros de la palta mediante el uso de herramientas de análisis de series de tiempo, analytics y optimización matemática","Goyzueta Meneses, Cesar Eduardo","
+Ingeniería Informática
+","Bruzza Moncayo, Mariuxi Alexandra y Tupia Anticona, Manuel Francisco","La tesis que estaré presentando es sobre una propuesta de mejora de la cadena de
+suministros de la palta mediante el uso de herramientas de análisis de series de tiempo,
+analytics y optimización matemática. Se divide en marco teórico, donde se muestra un
+panorama claro sobre la investigación operativa, cadena de suministro, analítica y series de
+tiempo; para comprender lo que se abarcará. El segundo capítulo sería sobre casos de estudio
+similares al enfoque del estudio. El siguiente capítulo sería un análisis del Perú enfocado en
+la exportación de la palta, su capacidad hídrica, superficie agrícola disponible, informalidad y
+pobreza. En el cuarto capítulo se propondrá una propuesta de mejora utilizando información
+climática, potenciales mercados a exportar, información socioeconómica, rendimientos de los
+terrenos y limitantes hídricas como de terreno; usando las herramientas de series de tiempo,
+analytics y un modelo matemático. Para el quinto capítulo se realizará el análisis financiero
+para ver si es rentable para los agricultores implementar la cosecha de la palta. En el siguiente
+capítulo se analizarán los datos otorgados por el modelo, el análisis descriptivo y el análisis
+financiero. Para finalizar, el último capítulo abarcará las conclusiones a partir de lo evaluado
+durante el documento.",2021
+9,Pontificia Universidad Católica del Perú,Diseño de un sistema de gestión de protección de datos personales basado en la norma ISO/IEC 27701:2019,"Girbau Roque, Christian Diego","
+Ingeniería Informática
+","Bruzza Moncayo, Mariuxi Alexandra","La presente tesis consiste en la investigación y aplicación de las regulaciones y estándares
+relacionados a la protección de datos personales para una institución cuyo principal servicio
+consiste en la provisión de evaluaciones de competencias profesionales y académicas. En la
+introducción de la tesis, se muestra que existe un imperativo para las organizaciones de cumplir
+con las regulaciones establecidas para la protección de datos personales, así como también de
+cumplir con los requerimientos de los titulares de los datos personales procesados por las
+entidades.
+El proyecto consta de cinco objetivos, los cuales abarcan el diseño de procesos, políticas y
+marcos para cumplir con las cláusulas necesarias para un sistema de gestión de seguridad de la
+información, según el estándar ISO 27001:2013, incluyendo las respectivas extensiones que
+presenta el estándar ISO 27701:2019 para incluir la gestión de protección de datos personales.
+Esto implica el diseño de componentes que detallan el contexto de la organización en relación
+a la protección de datos personales, la gestión de riesgos de protección de datos personales, y
+componentes de soporte para el sistema de gestión, tales como la matriz de comunicaciones y
+el estándar de gestión documental. También se desarrollaron marcos para la implementación
+del sistema de gestión, así como para la medición, monitoreo y mejora continua de este.
+A lo largo del trabajo, se muestra como los diferentes componentes del sistema de gestión
+interactúan entre sí para generar una mayor eficiencia en el manejo de la protección de datos
+personales en una organización. Del mismo modo, se muestra como el estándar ISO
+27005:2018 de gestión de riesgos de seguridad de la información puede ser adaptado y tomado
+como marco para la gestión de riesgos en un sistema de gestión de protección de datos
+personales.",2022
+10,Pontificia Universidad Católica del Perú,Determinación y segmentación del nivel socio-económico a partir del análisis automático de imágenes de satélite,"Sosa Pezo, Carlos Alberto","
+Ingeniería Informática
+","Rojas Polo, Jonatan Edward","Este proyecto tiene como objetivo desarrollar un modelo de análisis de imágenes satelitales basado en redes neuronales profundas para poder identificar de forma automática el nivel socioeconómico de zonas urbanas, a través de la utilización de las imágenes obtenidas mediante el satélite estatal peruano PerúSat-1, las cuales fueron provistas al proyecto por la Comisión Nacional de Investigación y Desarrollo Aeroespacial (CONIDA). De esta manera, se buscó proveer una fuente alternativa y complementaria a los métodos manuales de recolección de datos demográficos para los casos en los que esta metodología tradicional no resulta conveniente de ejecutar por factores de tiempo y presupuesto.
+Para ello, el proyecto inicia con la conformación del corpus de datos utilizados para el entrenamiento del modelo de análisis de imágenes satelitales. Este conjunto de datos incorpora, además de imágenes satelitales de PerúSat-1 de la ciudad de Lima capturadas entre 2016 y 2020, una serie de etiquetas que indican el nivel de ingresos de cada manzana en dicha ciudad. Estas etiquetas son el resultado de un estudio elaborado por el Instituto Nacional de Estadística e Informática en el año 2019, tomando como base los datos obtenidos durante el Censo Nacional de Población y Vivienda de 2017. En el caso de las imágenes satelitales, este proceso consiste en la composición en imágenes de cuatro bandas (rojo, azul, verde e infrarrojo) de alta resolución y su posterior división en bloques cuadrados de 512 píxeles en cada dimensión; mientras que las etiquetas censales son organizadas en una base de datos relacional, de forma que puedan ser accedidas por el script para la integración de ambas fuentes de datos. Finalmente, se asigna a cada bloque de 512 x 512 píxeles una máscara con las etiquetas censales correspondientes a la zona capturada.
+Luego, se define un protocolo de preprocesamiento de los datos, en el que normalizan los parches de las imágenes satelitales, además de incrementar el tamaño del conjunto de datos, de modo que sean adecuados para el entrenamiento de los modelos desarrollados. Respecto a estos, se dispone de dos modelos de redes neuronales convolucionales para el análisis socioeconómico de las imágenes satelitales: el primero, encargado de segmentar semánticamente los techos observados en las imágenes; y el segundo que, recibiendo como entradas la imágen satelital original y la máscara de techos generada por el modelo anterior, detecta el nivel socioeconómico de cada manzana en dicha imagen. Así, se obtiene como resultado final una máscara de bits en la que se indica el nivel socioeconómico de cada manzana observada en la imagen satelital.
+Finalmente, para facilitar su acceso hacia el usuario final, se desarrolla una plataforma web, compuesta por una interfaz gráfica y una interfaz de programación de aplicaciones, que permite seleccionar, con la ayuda de un mapa en la interfaz gráfica, imágenes satelitales para que sean procesadas por los modelos de redes neuronales y puedan ser las máscaras generadas visualizadas en conjunto con la imagen original.",2022
+11,Pontificia Universidad Católica del Perú,Implementación de un sistema de comercialización y administración de descuentos para puntos de ventas tipo mostrador,"Roldan Huayllasco, Stefano","
+Ingeniería Informática
+","Huamán Monzón, Fernando Miguel","Los descuentos y promociones han sido utilizados en los procesos de venta por la mayoría de
+las empresas comerciales, entre las cuales se encuentran los fabricantes, distribuidores,
+minoristas e instituciones sin fines de lucro. Esto se debe a que se ha considerado a las
+promociones como la técnica más estimulante para influir en la decisión de compra de los
+clientes. Entre las empresas se encuentran las pertenecientes al sector ferretero, las cuales han
+influido, en los últimos años, en la situación económica del país, por lo que es importante que se
+realice una buena gestión de descuentos y promociones que pueda colaborar a su crecimiento.
+Por ello, las empresas de este rubro se enfocan en la elaboración de descuentos y promociones
+con el objetivo de aumentar las ventas en un corto plazo. Estas promociones y descuentos
+necesitan ser adaptables y flexibles, puesto que cada negocio tiene características particulares,
+por lo que reaccionan de manera diferente ante los estímulos que generan estas promociones
+debido a un contexto o situación en particular. Ante esta necesidad, las empresas requieren
+sistemas comerciales que puedan colaborar en la implementación de una gestión de descuentos
+y promociones adecuada.
+En el trabajo realizado se implementó un sistema de comercialización y administración de
+descuentos y promociones que permite realizar modificaciones o actualizaciones de manera
+sencilla de tal manera que estos sean adaptables y flexibles según los requerimientos de la
+empresa.",2022
+12,Pontificia Universidad Católica del Perú,Implementación de un algoritmo memético para optimizar la asignación de tablas a unidades de almacenamiento de bases de datos relacionales,"Lucas Ramos, Jhamir Arturo","
+Ingeniería Informática
+","Beltrán Castañón, César Armando","En la actualidad, los sistemas de bases de datos son considerados como un componente fundamental para casi cualquier organización, ya que estos sistemas permiten acceder a información puntual de forma segura y rápida, lo cual es clave para una correcta toma de decisiones y una adecuada atención a los usuarios. Sin embargo, debido al rápido desarrollo de las tecnologías de información, cada vez más sistemas de información generan enormes cantidades de datos y necesitan lidiar con estos de forma eficiente y, dado que las bases de datos relacionales juegan un rol vital en muchos sistemas de información, el rendimiento de estos mismos sistemas depende directamente del rendimiento del sistema de base de datos.
+En ese sentido, se considera crítico aplicar diversos métodos para optimizar el rendimiento del sistema de base de datos. Uno de estos métodos es la asignación de tablas, el cual consiste en distribuir de manera adecuada a las tablas de una base de datos en los dispositivos de almacenamiento disponibles. Dicho método es útil porque permite mejorar el rendimiento del sistema de base de datos y aprovechar de mejor manera los recursos de hardware disponibles. Sin embargo, muchas veces esta tarea se realiza considerando sólo algunas variables o factores al momento de tomar una decisión. Asimismo, existe una ausencia en el empleo de esta técnica por parte de muchos sistemas modernos. Esto, sumado al hecho de que la asignación suele realizarse de manera manual y también a que los estudios presentes en el estado del arte utilizan, en su gran mayoría, soluciones basadas en heurísticas o cálculos simples, las cuales pueden no brindar buenos resultados, conducen a que se realice una deficiente asignación de tablas a unidades de almacenamiento. Esta situación provoca un bajo rendimiento del sistema de base de datos, un deficiente funcionamiento de la entrada y salida de disco y que las tareas de administración sean más propensas a errores.
+Ante esta situación, se torna necesario el uso de métodos que automaticen y optimicen esta tarea, en ese sentido, el presente trabajo de tesis propone el diseño y la implementación de un algoritmo memético que permita optimizar la asignación de tablas a unidades de almacenamiento de bases de datos relacionales.",2022
+13,Pontificia Universidad Católica del Perú,Rediseño de un software de punto de venta aplicando técnicas de Diseño Centrado en el Usuario,"Esparza Cabanillas, Patricia del Pilar","
+Ingeniería Informática
+","Cueva Moscoso, Rony","El presente proyecto de fin de carrera tiene como objetivo rediseñar las interfaces
+gráficas de un software de punto de venta aplicando técnicas de Diseño Centrado en el Usuario
+(DCU) para mejorar los atributos de usabilidad, así como incrementar la satisfacción de los
+usuarios mediante un proceso definido que involucre la participación del usuario en cada etapa
+del diseño de las interfaces gráficas, desde el análisis y obtención de requerimientos, hasta el
+diseño y evaluación.
+Actualmente, la industria retail es una de las más demandadas, pues esta se encarga de
+comercializar y distribuir los productos de un fabricante o productor intermedio al consumidor
+final. En muchos casos, estos utilizan software de punto de venta (POS, Point of Sale por sus
+siglas en inglés), el cual permite gestionar las ventas mediante la automatización de actividades
+rutinarias para garantizar tiempos reducidos y mejorar el control de los inventarios. Según la
+revisión sistemática realizada, se pudo detectar que este bajo grado de usabilidad en este tipo
+de software, se debe a que no se siguen procesos definidos de DCU y existen muy pocos casos
+de estudio donde se hayan aplicado este marco de trabajo.
+En este proyecto se utiliza la ISO 9241-210, la cual define al DCU como un estándar
+que ofrece una guía de fases para el diseño de sistemas interactivos, mas no ofrece una
+orientación a detalle sobre qué técnicas se deberían utilizar en cada una de estas fases. En este
+sentido, este proyecto representa un caso de estudio del uso de este marco en un dominio
+específico del cual se tiene poca evidencia.
+Finalmente, el estudio pudo demostrar una mejora significativa en los atributos de
+usabilidad: capacidad de aprendizaje y satisfacción del usuario en las nuevas interfaces gráficas
+del software de punto de venta mediante la validación del producto rediseñado bajo un proceso
+de Diseño Centrado en el Usuario.",2022
+14,Pontificia Universidad Católica del Perú,"Implementación de un algoritmo metaheurístico Cuckoo Search, para sistemas de premiación de juegos","Castañeda Quiñones, Lucas Augusto","
+Ingeniería Informática
+","Cueva Moscoso, Rony","El presente proyecto de fin de carrera propone implementar un algoritmo metaheurístico,
+cuckoo search, en el proceso de obtención de recompensas de juegos Gacha. El foco y objetivo
+de este estudio es el poder encontrar un equilibrio entre la satisfacción del usuario y el beneficio
+de la empresa, por lo cual se utilizaron dos tipos de usuario quienes abarcan las características
+de tiempo empleado en el juego y cuánto monto han invertido en éste.
+Para ello, se propuso una función objetivo en la cual abarca las variables relacionadas al
+usuario y la empresa, luego se adaptó el algoritmo propuesto al contexto planteado. Finalmente
+se implementó y aplicó en un prototipo de juego donde se compara el funcionamiento y
+desempeño de éste junto a un simulador; además de poder visualizar y simular el contexto de
+estar utilizando/jugando un juego Gacha. De los resultados, se pudo verificar un desempeño
+del algoritmo elegido frente al simulador. Con ello se logra cumplir con el objetivo inicial de
+poder equilibrar los valores representativos del usuario y el beneficio de la empresa. La meta
+propuesta es poder demostrar que el uso del cuckoo search en estos juegos es posible y en un
+futuro poder mejorarlo para su uso en estos tipos de juegos.",2022
+15,Pontificia Universidad Católica del Perú,Implementación de una aplicación web de soporte al proceso formal de evaluaciones heurísticas,"Lecaros Bao, Adrian Enrique","
+Ingeniería Informática
+","Paz Espinoza, Freddy Alberto","En la actualidad, la usabilidad es un aspecto muy importante, debido a que establece un
+rol fundamental en el uso, aceptación e interacción de los usuarios con productos de software,
+que permite incrementar la satisfacción y el uso de la información y funcionalidades que estos
+proveen. Adicionalmente, la evaluación heurística, como objeto de estudio en este proyecto,
+pertenece a los métodos de inspección de usabilidad y, si bien es considerado como el más
+utilizado, debido a que permite el hallazgo del 75% del total de problemas de usabilidad
+involucrando únicamente de 3 a 5 expertos en usabilidad, en comparación con las pruebas de
+usuario que requieren de un alto número de usuarios finales, se han identificado ciertos
+problemas al momento de realizar su ejecución.
+El problema central identificado es la ausencia de una herramienta de automatización y
+soporte al proceso de evaluación heurística dirigida a evaluadores de usabilidad basada en un
+proceso formal, que fue el problema abordado por el presente trabajo de investigación, ya que
+engloba a los demás problemas encontrados. Por esta razón, el objetivo general del proyecto
+fue desarrollar e implementar una aplicación web que permita la automatización y que brinde
+soporte en la ejecución del proceso de evaluación heurística, basada en un proceso formal
+establecido, que se encuentre disponible principalmente para evaluadores de usabilidad.
+El desarrollo del sistema se realizó a través de un análisis comparativo de los procesos
+formales de evaluación heurística encontrados en la literatura, para poder seleccionar el más
+completo como la base de la aplicación, así como de un desarrollo iterativo e incremental a
+través de tres módulos. Una vez culminado y validado, el sistema fue puesto a prueba por
+usuarios expertos en usabilidad quienes tuvieron una percepción altamente positiva en el uso
+de la aplicación web para realizar inspecciones de usabilidad.",2022
+16,Pontificia Universidad Católica del Perú,Diseño de un modelo de medición de accesibilidad en servicios de gobierno electrónico para personas con discapacidad visual,"Dioses Hurtado, Luis Enrique","
+Ingeniería Informática
+","Cueva Moscoso, Rony","Gobierno electrónico es la aplicación de las tecnologías de información y comunicación
+por parte de las instituciones públicas para realizar una gestión eficiente y eficaz promoviendo
+la transparencia y motivando a la participación de la población en asuntos del Estado (OEA,
+2020). Para un buen empleo de este concepto, es necesario que los portales que contengan estos
+servicios ofrecidos al ciudadano puedan ser entendidos y navegados con facilidad
+independientemente de las capacidades que tengan, es decir, que sea accesible. Sin embargo,
+podemos observar que varios de ellos no lo son del todo o solo cumplen una cantidad mínima
+de factores accesibles.
+En la actualidad no hay modelos oficiales que puedan medir la accesibilidad de los
+servicios de gobierno electrónico, por lo que las instituciones no se encontrarían en la capacidad
+de saber qué tan accesibles son sus productos gobierno-ciudadano.
+Para atacar esta problemática, en el presente trabajo de investigación, se busca construir
+un modelo que permita a las entidades públicas evaluar los portales que contengan servicios de
+gobierno electrónico en su dominio y, así, poder tomar acción sobre aquellas oportunidades de
+mejora que encuentren. Además, se buscará desarrollar una guía que detallará cómo se
+aplicarán cada uno de los componentes en las Instituciones públicas.",2022
+17,Pontificia Universidad Católica del Perú,Implementación de un sistema para la gestión del proceso de votación digital en instituciones privadas,"León Chumpitaz, Jorge Renato","
+Ingeniería Informática
+","Paz Espinoza, Freddy Alberto","En la actualidad los procesos electorales, en su gran mayoría, se llevan a cabo de forma
+presencial y se procesan los votos casi en su totalidad de forma manual. Esta forma de llevar a
+cabo el proceso trae consigo problemas tales como el extenso tiempo que toma realizarlo, la
+logística que conlleva, la acumulación de información física y la dificultad en la gestión de la
+misma, y los casos de fraude electoral que se han dado a lo largo de la historia. Es por ello que
+el presente trabajo de investigación, tendrá como resultado un sistema de votación digital para
+instituciones privadas y que seguirá lineamientos de seguridad de la información para asegurar
+en lo posible la confidencialidad de la información y evitar fraudes en el proceso. A lo largo
+de este proyecto de fin de carrera, se presentarán los objetivos que este tiene comenzando por
+la definición del proceso y lo que este abarca, y en base a ello, se realizará un análisis y diseño
+del alcance del sistema. Además, se definirán los lineamientos de seguridad que seguirá el
+desarrollo e implementación del mismo y finalmente, se implementará el sistema y se generarán
+los manuales y documentación para el uso del mismo. De esta forma se culminará explicando
+como la realización de este sistema combate los problemas antes mencionados brindando a las
+instituciones privadas una herramienta que los ayude en la gestión y realización de sus
+votaciones.",2021
+18,Pontificia Universidad Católica del Perú,Implementación de un sistema de información para el seguimiento y control de casos de covid-19 en empresas industriales,"Reyes Burga, Andrea Lucia","
+Ingeniería Informática
+","Bruzza Moncayo, Mariuxi Alexandra","El presente trabajo de investigación consiste en la implementación de un sistema de información para el seguimiento y control de casos de COVID-19 en empresas industriales. Este trabajo busca resolver el problema central de que la información del proceso de seguimiento y control de casos de COVID-19 dentro de las empresas industriales no se encuentra centralizada y accesible.
+Esta investigación surge a raíz de la pandemia y los cambios que se originaron en los protocolos de salud y seguridad dentro de los trabajos. A medida que se reactivaron las actividades económicas, cada empresa industrial implementó sus respectivos protocolos para asegurar el retorno seguro al trabajo de sus colaboradores. Muchos de estos protocolos tenían problemas en la gestión de la información por lo que era un nuevo contexto, se necesitaban otros datos de salud de los empleados y algunas actividades eran manuales o desorganizadas. En ese sentido, la propuesta apuesta por un sistema que apoye a estas empresas a garantizar seguridad a sus trabajadores buscando controlar la propagación de la enfermedad.
+Por ello, los objetivos planteados dentro de este proyecto son el diseño del proceso completo de seguimiento y control de casos COVID-19; la implementación de un sistema de información web que incluya las actividades dentro del proceso definido; y la implementación de un algoritmo de agrupamiento que permita identificar los posibles casos de contagio en base del monitoreo y control de los trabajadores.
+Los objetivos se lograron cumplir gracias a la investigación realizada sobre los protocolos para regresar al trabajo y las soluciones tecnológicas que surgieron a partir del COVID-19. De esta forma, se desarrolló una solución que colaboraría con las empresas en no propagar la enfermedad y cuidar a sus empleados.",2022
+19,Pontificia Universidad Católica del Perú,Desarrollo de un pipeline bioinformático que permite el ensamblaje y la anotación del genoma de la bacteria rickettsia asembonensis,"Arauco Alarcon, Ronie Paolo","
+Ingeniería Informática
+","Quispe Vilchez, Eder Ramiro","En las últimas décadas, el surgimiento y resurgimiento de las bacterias infecciosas se
+han convertido en amenazas de importancia para la salud pública. Este es el caso de la
+bacteria de la especie Rickettsia asembonensis -identificada en Asembo, Kenia- que, en los
+últimos años, ha sido detectada en pulgas (Ctenocephalides felis y Ctenocephalides canis), en
+regiones anteriormente no reportadas y en casos de síndromes febriles agudos inespecíficos.
+Este patógeno emergente -así como muchos otros- sigue siendo relativamente desconocido.
+Por lo que, se convierte en una necesidad sustancial no subestimarlo y expandir su estudio no
+solo epidemiológico, sino también relacionado a su biología molecular.
+En la actualidad, el esfuerzo científico a fin de incrementar la eficiencia de la obtención
+de la biología molecular de las especies a nivel global ha generado la aparición de tecnologías
+de secuenciación de última generación. En ese sentido, la gran cantidad de datos genómicos
+deben ser manipulados con técnicas bioinformáticas. Estas últimas, han permitido un mejor
+entendimiento y uso de los datos que generan las tecnologías de secuenciación. Siendo que,
+recientemente, la aplicación de protocolos y pipelines ha generado resultados favorables. En
+consecuencia, la aplicación de técnicas bioinformáticas con la finalidad de obtener la
+información genómica de la bacteria R. asembonensis representa una oportunidad para
+contribuir al conocimiento científico de este microorganismo.
+Por lo tanto, el presente trabajo tiene como objetivo principal el ensamblaje y la
+anotación del genoma de la bacteria R. asembonensis a través de un pipeline bioinformático,
+que hará uso de datos secuenciados de la pulga de la especie C. felis positivas para R.
+asembonensis, a partir de unas muestras recolectadas en un estudio llevado a cabo en la
+ciudad de Iquitos. El presente trabajo generará también un precedente y referente
+metodológico para otras especies de interés con la misma problemática.",2022
